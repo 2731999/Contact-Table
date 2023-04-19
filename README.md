@@ -11,9 +11,9 @@ npm start
 
 
 ## Features
-Ability to store and manage contact information, such as names, phone numbers, and email addresses.
-Ability to add, edit, and delete contact information.
-Integration with other application, such as email, to easily communicate with contacts.
+- Ability to store and manage contact information, such as names, phone numbers, and email addresses.
+- Ability to add, edit, and delete contact information.
+- Integration with other application, such as email, to easily communicate with contacts.
  
  ## Screanshot
 This is the overview of website.
