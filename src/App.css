@@ -1,0 +1,79 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    background-color: black;
+  }
+
+  .app-container h2{
+    font-size: 50px;
+    margin-left: 700px;
+    color: blue;
+    font-weight: 600px;
+  }
+
+  .app-container .handelAddFormChangeSubmit button{
+    background: linear-gradient(to bottom, #00ccff 0%, #0066ff 100%);
+    border-radius: 10px;
+    width: 200px;
+  }
+  .app-container .handelAddFormChangeSubmit button:hover{
+    background: linear-gradient(to top, #00ccff 0%, #0066ff 100%);
+  }
+
+  .tre button{
+    background: linear-gradient(to bottom, #00c3ff 0%, #04d8fd 100%);
+    border-radius: 5px;
+  }
+  .tre button:hover{
+    background: linear-gradient(to top, #00c3ff 0%, #04d8fd 100%);
+  }
+
+  .trr button{
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #5afdd4 0%, #0070f0 100%);
+  }
+
+  .trr button:hover{
+    background: linear-gradient(to top, #5afdd4 0%, #0070f0 100%);
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    font-size: 32px;
+  }
+  
+  th {
+    background-color: rgb(0, 153, 255);
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
+  
+  form {
+    display: flex;
+    gap: 10px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 28px;
+  }
