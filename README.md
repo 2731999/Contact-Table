@@ -10,6 +10,13 @@ npm install
 npm start
 
 
+## Features
+Ability to store and manage contact information, such as names, phone numbers, and email addresses.
+Ability to add, edit, and delete contact information.
+Integration with other application, such as email, to easily communicate with contacts.
+ 
+ 
+
 ## How to Use
 
 - To add a new contact, fill in the form at the top of the page and click "Add".
